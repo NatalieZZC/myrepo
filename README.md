@@ -1,4 +1,3 @@
 # myrepo
 testing Rstudio
-this is nothing here
-are you drunk
+I tried my first repository and I'm very excited!
